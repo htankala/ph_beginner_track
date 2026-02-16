@@ -19,3 +19,27 @@ In this workshop, you will build a text-based bakery adventure game using:
 4. Navigate into the starter folder: `cd pearl-hacks-bakery-beginner/starter`
 5. Run the program: `python main.py`
 
+---
+
+## Your Goal
+
+Complete the TODOs inside the `starter/` folder to:
+
+- Manage bakery inventory
+- Help customers
+- Bake cupcakes
+- Earn money
+- Restock ingredients
+
+---
+
+## Stretch Goals
+
+- Add random customer events
+- Add new bakery items
+- Add win/lose conditions
+- Track daily profits
+- Add levels
+
+Have fun and happy coding! 🧁✨
+
