@@ -41,5 +41,4 @@ Complete the TODOs inside the `starter/` folder to:
 - Track daily profits
 - Add levels
 
-Have fun and happy coding! 
 
