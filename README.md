@@ -59,12 +59,31 @@ Complete the TODOs inside the `starter/` folder to:
 
 ---
 
-## Stretch Goals
+## Stretch Goals (Optional Extensions)
 
-- Add random customer events
-- Add new bakery items
+Want to take your bakery to the next level?
+
+### Turn It Into a Web App
+- Create a simple HTML page for your bakery
+- Use CSS to design the bakery layout
+- Use JavaScript to connect buttons to game actions
+- Bonus: Connect your Python backend using Flask
+
+### Design a Bakery App UI
+- Prototype your bakery game in Figma
+- Design:
+  - A homepage
+  - Inventory dashboard
+  - Customer interaction screen
+  - Daily summary screen
+- Think about user experience and visual design
+
+### Creativity Track Ideas
+- Add custom bakery themes 
+- Add new baked goods
+- Add character backstories
 - Add win/lose conditions
-- Track daily profits
-- Add levels
+- Add animations or sound effects
 
+For the beginner track, creativity and thoughtful extensions are encouraged!
 
