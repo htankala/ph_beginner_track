@@ -41,7 +41,7 @@ In this workshop, you will build a text-based bakery adventure game using:
 ## Step 3: Check Requirements and Clone Repository
 
 1. Make sure you have Python 3 installed: `python --version`
-3. Clone this repository: `git clone <repo-link>`
+3. Clone this repository: `git clone https://github.com/htankala/ph_beginner_track.git`
 4. Navigate into the starter folder: `cd pearl-hacks-bakery-beginner/starter`
 5. Run the program: `python main.py`
 
